@@ -1,4 +1,4 @@
-# World Development Indicators - WorldBank
+## 🌎  World Development Indicators - WorldBank
 
 O presente projeto consiste na organização dos dados referentes ao World Development Indicators, uma compilação de indicadores relevantes de vários países disponibilizados pelo World Bank.
 
