@@ -40,7 +40,7 @@
 O presente projeto consiste na organização dos dados referentes ao World Development Indicators, uma compilação de indicadores relevantes de vários países disponibilizados pelo World Bank.
 
 
-Para acesso na íntegra dos indicadores na própria plataforma:
+Para acesso na íntegra dos indicadores na própria plataforma acesso o link abaixo:
 https://databank.worldbank.org/source/world-development-indicators
 
 
